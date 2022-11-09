@@ -1,2 +1,2 @@
-<img align="right" alt="card" src="https://user-images.githubusercontent.com/99230538/200922775-8d36482c-7020-4ee6-8f5f-1c3edda26885.png">
-<h1 align="left">Repono Ecommerce</h1>
+<img align="left" alt="card" src="https://user-images.githubusercontent.com/99230538/200922755-433f577d-8081-4a96-884f-60165587517d.png">
+<h1 align="right">Repono Ecommerce</h1>
